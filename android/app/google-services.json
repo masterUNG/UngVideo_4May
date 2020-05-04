@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "692454190419",
+    "firebase_url": "https://ungvideo-bdba1.firebaseio.com",
+    "project_id": "ungvideo-bdba1",
+    "storage_bucket": "ungvideo-bdba1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692454190419:android:c52926204a20bd9ae805a6",
+        "android_client_info": {
+          "package_name": "com.flutterthailand.ungvideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692454190419-p52c8d92vnm4ulvduciqrjncdonq4noe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhmIOVoMWuXkqgVP2IaDrD-SXZE6bGd5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692454190419-p52c8d92vnm4ulvduciqrjncdonq4noe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
