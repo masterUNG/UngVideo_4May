@@ -19,6 +19,13 @@ class _ShowListVideoState extends State<ShowListVideo> {
   void initState(){
     super.initState();
     index = widget.index;
+    readData();
+  }
+
+  Future<Null> readData()async{
+
+    
+
   }
 
 
